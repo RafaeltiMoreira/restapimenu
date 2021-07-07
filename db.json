@@ -2,18 +2,30 @@
   "menu": [
     {
       "id": 1,
-      "sabor": "Calatuguesa",
-      "image": "https://www.pngfind.com/pngs/m/457-4572678_free-png-pizza-png-png-image-with-transparent.png"
+      "title": "Calatuguesa",
+      "description": "calabresa, champingnon, azeitona, pimentão, cebola, mussarela e molho pelati",
+      "image": "https://www.pngfind.com/pngs/m/457-4572678_free-png-pizza-png-png-image-with-transparent.png",
+      "btnLabel": "Selecionar",
+      "label": "Calatuguesa",
+      "value": "calatuguesa"
     },
     {
       "id": 2,
-      "sabor": "Cê que sabe",
-      "image": "https://e7.pngegg.com/pngimages/218/564/png-clipart-pizza-pizza.png"
+      "title": "Cê que sabe",
+      "description": "presunto, atum, azeitona, pimentão, palmito, , tomate, cebola, mussarela e molho pelati",
+      "image": "https://e7.pngegg.com/pngimages/218/564/png-clipart-pizza-pizza.png",
+      "btnLabel": "Selecionar",
+      "label": "Cê que sabe",
+      "value": "cê que sabe"
     },
     {
       "id": 3,
-      "sabor": "Docin",
-      "image": "https://w7.pngwing.com/pngs/321/350/png-transparent-pizza-dulce-de-leche-dish-restaurant-chocolate-spread-pizza-small-baked-goods-food-baking.png"
+      "title": "Docin",
+      "description": "Nutella, leite condensado e mussarela",
+      "image": "https://w7.pngwing.com/pngs/321/350/png-transparent-pizza-dulce-de-leche-dish-restaurant-chocolate-spread-pizza-small-baked-goods-food-baking.png",
+      "btnLabel": "Selecionar",
+      "label": "Docin",
+      "value": "docin"
     }
   ]
 }
