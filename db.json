@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "sabor": "Calatuguesa",
+      "image": "https://www.pngfind.com/pngs/m/457-4572678_free-png-pizza-png-png-image-with-transparent.png"
+    },
+    {
+      "id": 2,
+      "sabor": "Cê que sabe",
+      "image": "https://e7.pngegg.com/pngimages/218/564/png-clipart-pizza-pizza.png"
+    },
+    {
+      "id": 3,
+      "sabor": "Docin",
+      "image": "https://w7.pngwing.com/pngs/321/350/png-transparent-pizza-dulce-de-leche-dish-restaurant-chocolate-spread-pizza-small-baked-goods-food-baking.png"
+    }
+  ]
+}
