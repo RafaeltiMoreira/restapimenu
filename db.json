@@ -1,31 +1,58 @@
 {
-  "menu": [
-    {
-      "id": 1,
-      "title": "Calatuguesa",
-      "description": "calabresa, champingnon, azeitona, pimentão, cebola, mussarela e molho pelati",
-      "image": "https://www.pngfind.com/pngs/m/457-4572678_free-png-pizza-png-png-image-with-transparent.png",
-      "btnLabel": "Selecionar",
-      "label": "Calatuguesa",
-      "value": "calatuguesa"
-    },
-    {
-      "id": 2,
-      "title": "Cê que sabe",
-      "description": "presunto, atum, azeitona, pimentão, palmito, , tomate, cebola, mussarela e molho pelati",
-      "image": "https://e7.pngegg.com/pngimages/218/564/png-clipart-pizza-pizza.png",
-      "btnLabel": "Selecionar",
-      "label": "Cê que sabe",
-      "value": "cê que sabe"
-    },
-    {
-      "id": 3,
-      "title": "Docin",
-      "description": "Nutella, leite condensado e mussarela",
-      "image": "https://w7.pngwing.com/pngs/321/350/png-transparent-pizza-dulce-de-leche-dish-restaurant-chocolate-spread-pizza-small-baked-goods-food-baking.png",
-      "btnLabel": "Selecionar",
-      "label": "Docin",
-      "value": "docin"
-    }
-  ]
+    "menu": [
+        {
+            "id": 1,
+            "title": "Calaquente",
+            "description": "calabresa, manjericão, pimenta biquinho, cebola, mussarela e molho pelati",
+            "image": "https://i.pinimg.com/originals/a2/1e/82/a21e82f1b4f055c2f5c75d5fdaee696f.png",
+            "btnLabel": "Selecionar",
+            "label": "Calaquente",
+            "value": "calaquente"
+        },
+        {
+            "id": 2,
+            "title": "Cê que sabe",
+            "description": "calabresa, presunto, azeitona, pimenta biquinho, coxinha de frango, mussarela e molho pelati",
+            "image": "https://www.pizzarita.com.br/assets/images/borda_coxinha.png",
+            "btnLabel": "Selecionar",
+            "label": "Cê que sabe",
+            "value": "cê que sabe"
+        },
+        {
+            "id": 3,
+            "title": "Frango Catupiry",
+            "description": "frango desfiado, catupiry, mussarela e molho pelati",
+            "image": "https://www.nonoludovico.com.br/wp-content/uploads/2019/12/pizza-de-frango-nono-ludovico.png",
+            "btnLabel": "Selecionar",
+            "label": "Frango Catupiry",
+            "value": "frango catupiry"
+        },
+        {
+            "id": 4,
+            "title": "Marguerita",
+            "description": "tomate, manjericão, mussarela e molho pelati",
+            "image": "https://www.sabornamesa.com.br/media/k2/items/cache/2c3125eb8597b442fad87e2c031423e6_L.jpg",
+            "btnLabel": "Selecionar",
+            "label": "Marguerita",
+            "value": "marguerita"
+        },
+        {
+            "id": 5,
+            "title": "Banana",
+            "description": "banana, açúcar refinada, canela, leite condensado e mussarela",
+            "image": "https://i.pinimg.com/originals/92/d2/86/92d286ee8d4214a8ce8199af2c7b6136.jpg",
+            "btnLabel": "Selecionar",
+            "label": "Banana",
+            "value": "banana"
+        },
+        {
+            "id": 6,
+            "title": "Morango & chocolate",
+            "description": "morango, nutella, leite condensado e mussarela",
+            "image": "https://www.dicasdetreino.com.br/wp-content/uploads/2016/10/Pizza-doce-de-Brigadeiro.jpg",
+            "btnLabel": "Selecionar",
+            "label": "Morango & chocolate",
+            "value": "morango & chocolate"
+        }
+    ]
 }
