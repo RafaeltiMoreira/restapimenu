@@ -3,8 +3,8 @@
         {
             "id": 1,
             "title": "Calaquente",
-            "description": "calabresa, manjericão, pimenta biquinho, cebola, mussarela e molho pelati",
-            "image": "https://imgur.com/H6YtgCP",
+            "description": "calabresa, manjericão, pimenta biquinho, cebola, mussarela e molho pelati.",
+            "image": "https://drive.google.com/file/d/13HkkIIQVAmuUklnVb-VFNP-jcYKc4C22/view",
             "btnLabel": "Selecionar",
             "label": "Calaquente",
             "value": "calaquente"
@@ -12,8 +12,8 @@
         {
             "id": 2,
             "title": "Cê que sabe",
-            "description": "calabresa, presunto, azeitona, pimenta biquinho, coxinha de frango, mussarela e molho pelati",
-            "image": "https://imgur.com/kKfbKzd",
+            "description": "calabresa, presunto, azeitona, pimenta biquinho, coxinha de frango, mussarela e molho pelati.",
+            "image": "https://drive.google.com/file/d/1Hnx7TULRmwg6NZJeldwvnNcAylJUGWd8/view",
             "btnLabel": "Selecionar",
             "label": "Cê que sabe",
             "value": "cê que sabe"
@@ -21,7 +21,7 @@
         {
             "id": 3,
             "title": "Frango Catupiry",
-            "description": "frango desfiado, catupiry, mussarela e molho pelati",
+            "description": "frango desfiado, catupiry, mussarela e molho pelati.",
             "image": "https://www.nonoludovico.com.br/wp-content/uploads/2019/12/pizza-de-frango-nono-ludovico.png",
             "btnLabel": "Selecionar",
             "label": "Frango Catupiry",
@@ -30,8 +30,8 @@
         {
             "id": 4,
             "title": "Marguerita",
-            "description": "tomate, manjericão, mussarela e molho pelati",
-            "image": "https://imgur.com/HDNuRnz",
+            "description": "tomate, manjericão, mussarela e molho pelati.",
+            "image": "https://drive.google.com/file/d/1xARi8aSyCZkDfoRAewIMcm0EE9WUtGAA/view",
             "btnLabel": "Selecionar",
             "label": "Marguerita",
             "value": "marguerita"
@@ -39,8 +39,8 @@
         {
             "id": 5,
             "title": "Banana",
-            "description": "banana, açúcar refinada, canela, leite condensado e mussarela",
-            "image": "https://imgur.com/3JpdV4T",
+            "description": "banana, açúcar refinada, canela, leite condensado e mussarela.",
+            "image": "https://drive.google.com/file/d/10yYS0fRUxP_wceIR7VPnBQ1wvptKmTwc/view",
             "btnLabel": "Selecionar",
             "label": "Banana",
             "value": "banana"
@@ -48,8 +48,8 @@
         {
             "id": 6,
             "title": "Morango & chocolate",
-            "description": "morango, nutella, leite condensado e mussarela",
-            "image": "https://imgur.com/N3ljLsf",
+            "description": "morango, nutella, leite condensado e mussarela.",
+            "image": "https://drive.google.com/file/d/1ynW8Z_6knRPukVg-dpYBWO-SxoQw29cQ/view",
             "btnLabel": "Selecionar",
             "label": "Morango & chocolate",
             "value": "morango & chocolate"
