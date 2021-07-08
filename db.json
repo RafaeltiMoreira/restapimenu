@@ -4,7 +4,7 @@
             "id": 1,
             "title": "Calaquente",
             "description": "calabresa, manjericão, pimenta biquinho, cebola, mussarela e molho pelati",
-            "image": "https://i.pinimg.com/originals/a2/1e/82/a21e82f1b4f055c2f5c75d5fdaee696f.png",
+            "image": "https://imgur.com/H6YtgCP",
             "btnLabel": "Selecionar",
             "label": "Calaquente",
             "value": "calaquente"
@@ -13,7 +13,7 @@
             "id": 2,
             "title": "Cê que sabe",
             "description": "calabresa, presunto, azeitona, pimenta biquinho, coxinha de frango, mussarela e molho pelati",
-            "image": "https://www.pizzarita.com.br/assets/images/borda_coxinha.png",
+            "image": "https://imgur.com/kKfbKzd",
             "btnLabel": "Selecionar",
             "label": "Cê que sabe",
             "value": "cê que sabe"
@@ -31,7 +31,7 @@
             "id": 4,
             "title": "Marguerita",
             "description": "tomate, manjericão, mussarela e molho pelati",
-            "image": "https://www.sabornamesa.com.br/media/k2/items/cache/2c3125eb8597b442fad87e2c031423e6_L.jpg",
+            "image": "https://imgur.com/HDNuRnz",
             "btnLabel": "Selecionar",
             "label": "Marguerita",
             "value": "marguerita"
@@ -40,7 +40,7 @@
             "id": 5,
             "title": "Banana",
             "description": "banana, açúcar refinada, canela, leite condensado e mussarela",
-            "image": "https://i.pinimg.com/originals/92/d2/86/92d286ee8d4214a8ce8199af2c7b6136.jpg",
+            "image": "https://imgur.com/3JpdV4T",
             "btnLabel": "Selecionar",
             "label": "Banana",
             "value": "banana"
@@ -49,7 +49,7 @@
             "id": 6,
             "title": "Morango & chocolate",
             "description": "morango, nutella, leite condensado e mussarela",
-            "image": "https://www.dicasdetreino.com.br/wp-content/uploads/2016/10/Pizza-doce-de-Brigadeiro.jpg",
+            "image": "https://imgur.com/N3ljLsf",
             "btnLabel": "Selecionar",
             "label": "Morango & chocolate",
             "value": "morango & chocolate"
