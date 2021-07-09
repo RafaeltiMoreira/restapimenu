@@ -1,55 +1,49 @@
 {
     "menu": [
         {
-            "id": 1,
+            "image": "https://i.pinimg.com/564x/a2/1e/82/a21e82f1b4f055c2f5c75d5fdaee696f.jpg",
             "title": "Calaquente",
             "description": "calabresa, manjericão, pimenta biquinho, cebola, mussarela e molho pelati.",
-            "image": "https://i.pinimg.com/564x/a2/1e/82/a21e82f1b4f055c2f5c75d5fdaee696f.jpg",
             "btnLabel": "Selecionar",
             "label": "Calaquente",
             "value": "calaquente"
         },
         {
-            "id": 2,
+            "image": "https://www.pizzarita.com.br/assets/images/borda_coxinha.png",
             "title": "Cê que sabe",
             "description": "calabresa, presunto, azeitona, pimenta biquinho, coxinha de frango, mussarela e molho pelati.",
-            "image": "https://www.pizzarita.com.br/assets/images/borda_coxinha.png",
             "btnLabel": "Selecionar",
             "label": "Cê que sabe",
             "value": "cê que sabe"
         },
         {
-            "id": 3,
+            "image": "https://shalompizzaria.com/wp-content/uploads/2020/12/frango.jpg",
             "title": "Frango Catupiry",
             "description": "frango desfiado, catupiry, mussarela e molho pelati.",
-            "image": "https://shalompizzaria.com/wp-content/uploads/2020/12/frango.jpg",
             "btnLabel": "Selecionar",
             "label": "Frango Catupiry",
             "value": "frango catupiry"
         },
         {
-            "id": 4,
+            "image": "https://lh4.googleusercontent.com/C_yx1KaGKFC_j64Hmb4HwqmhopZF3pNHh0JKr0vCdkks1S1I_0G-O4PRvc665vCpyYUpH5WJfZacJa50i8wgRSi5JjbA6IDCS0RRzIw9EdOWBDXY5HXMYMYQ6gbLOC_Mgg",
             "title": "Marguerita",
             "description": "tomate, manjericão, mussarela e molho pelati.",
-            "image": "https://lh4.googleusercontent.com/C_yx1KaGKFC_j64Hmb4HwqmhopZF3pNHh0JKr0vCdkks1S1I_0G-O4PRvc665vCpyYUpH5WJfZacJa50i8wgRSi5JjbA6IDCS0RRzIw9EdOWBDXY5HXMYMYQ6gbLOC_Mgg",
             "btnLabel": "Selecionar",
             "label": "Marguerita",
             "value": "marguerita"
         },
         {
-            "id": 5,
+            "image": "https://i.pinimg.com/564x/92/d2/86/92d286ee8d4214a8ce8199af2c7b6136.jpg",
             "title": "Banana",
             "description": "banana, açúcar refinada, canela, leite condensado e mussarela.",
-            "image": "https://i.pinimg.com/564x/92/d2/86/92d286ee8d4214a8ce8199af2c7b6136.jpg",
             "btnLabel": "Selecionar",
             "label": "Banana",
             "value": "banana"
         },
         {
-            "id": 6,
+            "image": "https://i.pinimg.com/564x/c6/0a/85/c60a8520d65497913c81c730498b10a3.jpg",
             "title": "Morango & chocolate",
             "description": "morango, nutella, leite condensado e mussarela.",
-            "image": "https://i.pinimg.com/564x/c6/0a/85/c60a8520d65497913c81c730498b10a3.jpg",
             "btnLabel": "Selecionar",
             "label": "Morango & chocolate",
             "value": "morango & chocolate"
