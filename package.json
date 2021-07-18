@@ -20,5 +20,6 @@
   "homepage": "https://github.com/RafaeltiMoreira/restapimenu#readme",
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "devDependencies": {}
 }

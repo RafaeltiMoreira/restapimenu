@@ -1,52 +1,52 @@
 {
-    "menu": [
+    "cepApi": [
         {
-            "image": "https://i.pinimg.com/564x/a2/1e/82/a21e82f1b4f055c2f5c75d5fdaee696f.jpg",
-            "title": "Calaquente",
-            "description": "calabresa, manjericão, pimenta biquinho, cebola, mussarela e molho pelati.",
-            "btnLabel": "Selecionar",
-            "label": "Calaquente",
-            "value": "calaquente"
+            "cep": "72002-049",
+            "logradouro": "Quadra 10 Conjunto 15",
+            "complemento": "",
+            "bairro": "Setor Habitacional Vicente Pires",
+            "localidade": "Brasília",
+            "uf": "DF"
         },
         {
-            "image": "https://www.pizzarita.com.br/assets/images/borda_coxinha.png",
-            "title": "Cê que sabe",
-            "description": "calabresa, presunto, azeitona, pimenta biquinho, coxinha de frango, mussarela e molho pelati.",
-            "btnLabel": "Selecionar",
-            "label": "Cê que sabe",
-            "value": "cê que sabe"
+            "cep": "71070-117",
+            "logradouro": "QE 44 Conjunto K",
+            "complemento": "",
+            "bairro": "Guará II",
+            "localidade": "Brasília",
+            "uf": "DF"
         },
         {
-            "image": "https://shalompizzaria.com/wp-content/uploads/2020/12/frango.jpg",
-            "title": "Frango Catupiry",
-            "description": "frango desfiado, catupiry, mussarela e molho pelati.",
-            "btnLabel": "Selecionar",
-            "label": "Frango Catupiry",
-            "value": "frango catupiry"
+            "cep": "70070-130",
+            "logradouro": "SBS Quadra 3",
+            "complemento": "",
+            "bairro": "Asa Sul",
+            "localidade": "Brasília",
+            "uf": "DF"
         },
         {
-            "image": "https://lh4.googleusercontent.com/C_yx1KaGKFC_j64Hmb4HwqmhopZF3pNHh0JKr0vCdkks1S1I_0G-O4PRvc665vCpyYUpH5WJfZacJa50i8wgRSi5JjbA6IDCS0RRzIw9EdOWBDXY5HXMYMYQ6gbLOC_Mgg",
-            "title": "Marguerita",
-            "description": "tomate, manjericão, mussarela e molho pelati.",
-            "btnLabel": "Selecionar",
-            "label": "Marguerita",
-            "value": "marguerita"
+            "cep": "70070-904",
+            "logradouro": "Quadra SBS Quadra 2 Bloco S",
+            "complemento": "",
+            "bairro": "Asa Sul",
+            "localidade": "Brasília",
+            "uf": "DF"
         },
         {
-            "image": "https://i.pinimg.com/564x/92/d2/86/92d286ee8d4214a8ce8199af2c7b6136.jpg",
-            "title": "Banana",
-            "description": "banana, açúcar refinada, canela, leite condensado e mussarela.",
-            "btnLabel": "Selecionar",
-            "label": "Banana",
-            "value": "banana"
+            "cep": "71681-655",
+            "logradouro": "Quadra 11 Conjunto C",
+            "complemento": "",
+            "bairro": "Setor Habitacional Jardim Botânico",
+            "localidade": "Brasília",
+            "uf": "DF"
         },
         {
-            "image": "https://i.pinimg.com/564x/c6/0a/85/c60a8520d65497913c81c730498b10a3.jpg",
-            "title": "Morango & chocolate",
-            "description": "morango, nutella, leite condensado e mussarela.",
-            "btnLabel": "Selecionar",
-            "label": "Morango & chocolate",
-            "value": "morango & chocolate"
+            "cep": "70804-160",
+            "logradouro": "Rua 12",
+            "complemento": "",
+            "bairro": "Vila Planalto",
+            "localidade": "Brasília",
+            "uf": "DF"
         }
     ]
 }
