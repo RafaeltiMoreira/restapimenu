@@ -1,52 +1,34 @@
 {
-    "cepApi": [
+    "catApi": [
         {
-            "cep": "72002-049",
-            "logradouro": "Quadra 10 Conjunto 15",
-            "complemento": "",
-            "bairro": "Setor Habitacional Vicente Pires",
-            "localidade": "Brasília",
-            "uf": "DF"
+            "image": "https://img.r7.com/images/gatinho-com-deficiencia-ganha-a-internet-com-caretas-12042018152802935?dimensions=1080x1080",
+            "label": "1 - Ruim",
+            "value": "1",
+            "btnLabel": "1 - Ruim"
         },
         {
-            "cep": "71070-117",
-            "logradouro": "QE 44 Conjunto K",
-            "complemento": "",
-            "bairro": "Guará II",
-            "localidade": "Brasília",
-            "uf": "DF"
+            "image": "https://img.r7.com/images/gatinho-com-deficiencia-ganha-a-internet-com-caretas-12042018152803197",
+            "label": "2 - Razoável",
+            "value": "2",
+            "btnLabel": "2 - Razoável"
         },
         {
-            "cep": "70070-130",
-            "logradouro": "SBS Quadra 3",
-            "complemento": "",
-            "bairro": "Asa Sul",
-            "localidade": "Brasília",
-            "uf": "DF"
+            "image": "https://img.r7.com/images/gatinho-com-deficiencia-ganha-a-internet-com-caretas-12042018152800098",
+            "label": "3 - Bom",
+            "value": "3",
+            "btnLabel": "3 - Bom"
         },
         {
-            "cep": "70070-904",
-            "logradouro": "Quadra SBS Quadra 2 Bloco S",
-            "complemento": "",
-            "bairro": "Asa Sul",
-            "localidade": "Brasília",
-            "uf": "DF"
+            "image": "https://img.r7.com/images/gatinho-com-deficiencia-ganha-a-internet-com-caretas-12042018155809355",
+            "label": "4 - Muito bom",
+            "value": "4",
+            "btnLabel": "4 - Muito bom"
         },
         {
-            "cep": "71681-655",
-            "logradouro": "Quadra 11 Conjunto C",
-            "complemento": "",
-            "bairro": "Setor Habitacional Jardim Botânico",
-            "localidade": "Brasília",
-            "uf": "DF"
-        },
-        {
-            "cep": "70804-160",
-            "logradouro": "Rua 12",
-            "complemento": "",
-            "bairro": "Vila Planalto",
-            "localidade": "Brasília",
-            "uf": "DF"
+            "image": "https://www.hypeness.com.br/1/2018/04/rexie-4.jpg",
+            "label": "5 - Excelente",
+            "value": "5",
+            "btnLabel": "5 - Excelente"
         }
     ]
 }
