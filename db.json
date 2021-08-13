@@ -1,34 +1,83 @@
 {
-    "catApi": [
+    "Api4Chat": [
         {
-            "image": "https://img.r7.com/images/gatinho-com-deficiencia-ganha-a-internet-com-caretas-12042018152802935?dimensions=1080x1080",
-            "label": "1 - Ruim",
-            "value": "1",
-            "btnLabel": "1 - Ruim"
+            "nome": "Talita das Neves",
+            "cpf": "24076558693",
+            "email": "talitadasneves_@outershoes.com.br",
+            "celular": "(31)996331784",	
+            "endereco": 
+                        {
+                                "cep": "31630360",
+                                "logradouro": "Rua Doutor Custódio de Paula Rodrigues 19",
+                                "complemento": "casa 8",
+                                "bairro": "Centro",
+                                "cidade": "Abre Campo",
+                                "uf": "MG"
+                        },
+                        {
+                                "produto": "Máquina NEF14",
+                                "pedido": 7579,
+                                "status": "Entregue",
+                                "data_compra": "12-07-21",
+                                "valor": 669.99,
+                                "quantidade": 1
+                        },
+                        {
+                                "produto": "Cápsulas NEF14",
+                                "pedido": 7580,
+                                "status": "Entregue",
+                                "data_compra": "15-07-21",
+                                "valor": 225,
+                                "quantidade": 5
+                        }
         },
+        
         {
-            "image": "https://img.r7.com/images/gatinho-com-deficiencia-ganha-a-internet-com-caretas-12042018152803197",
-            "label": "2 - Razoável",
-            "value": "2",
-            "btnLabel": "2 - Razoável"
+            "nome": "Rafael Novaes",
+            "cpf": "93509197704",
+            "email": "novaesrafael@jh2consulting.com",
+            "celular": "(61)997652247",
+            "endereco": 
+                        {
+                                "cep": "28970971",
+                                "logradouro": "Avenida Getúlio Vargas 1425",
+                                "complemento": "loja B",
+                                "bairro": "Centro",
+                                "cidade": "Araruama",
+                                "uf": "RJ"
+                        },
+                        {
+                                "produto": "Máquina G1",
+                                "pedido": 1486,
+                                "status": "Cancelado",
+                                "data_compra": "24-06-21",
+                                "valor": 769.99,
+                                "quantidade": 1
+                        }  
         },
+        
         {
-            "image": "https://img.r7.com/images/gatinho-com-deficiencia-ganha-a-internet-com-caretas-12042018152800098",
-            "label": "3 - Bom",
-            "value": "3",
-            "btnLabel": "3 - Bom"
-        },
-        {
-            "image": "https://img.r7.com/images/gatinho-com-deficiencia-ganha-a-internet-com-caretas-12042018155809355",
-            "label": "4 - Muito bom",
-            "value": "4",
-            "btnLabel": "4 - Muito bom"
-        },
-        {
-            "image": "https://www.hypeness.com.br/1/2018/04/rexie-4.jpg",
-            "label": "5 - Excelente",
-            "value": "5",
-            "btnLabel": "5 - Excelente"
+            "nome": "Jonas Raposo",
+            "cpf": "61086076028",
+            "email": "jonas76@raposoengenharia.com.br",
+            "celular": "(51)995272132",
+            "endereco": 
+                        {
+                                "cep": "94855180",
+                                "logradouro": "Rua Engenheiro Ildo Menegheti 5",
+                                "bairro": "Aparecida",
+                                "cidade": "Alvorada",
+                                "uf": "RS"
+                        },
+                        {
+                                "produto": "Cápsulas G7",
+                                "pedido": 5123,
+                                "status": "Enviado",
+                                "data_compra": "04-08-21",
+                                "valor": 135,
+                                "quantidade": 3
+                        }   
         }
+        
     ]
-}
+}    
