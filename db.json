@@ -14,7 +14,6 @@
                                 "cidade": "Abre Campo",
                                 "uf": "MG"
                         },
-                        {
                                 "produto": "Máquina NEF14",
                                 "pedido": 7579,
                                 "status": "Entregue",
@@ -29,8 +28,8 @@
                                 "data_compra": "15-07-21",
                                 "valor": 225,
                                 "quantidade": 5
-                        }
-        },
+                        },
+
         
         {
             "nome": "Rafael Novaes",
@@ -46,15 +45,13 @@
                                 "cidade": "Araruama",
                                 "uf": "RJ"
                         },
-                        {
                                 "produto": "Máquina G1",
                                 "pedido": 1486,
                                 "status": "Cancelado",
                                 "data_compra": "24-06-21",
                                 "valor": 769.99,
                                 "quantidade": 1
-                        }  
-        },
+                        },
         
         {
             "nome": "Jonas Raposo",
@@ -69,7 +66,6 @@
                                 "cidade": "Alvorada",
                                 "uf": "RS"
                         },
-                        {
                                 "produto": "Cápsulas G7",
                                 "pedido": 5123,
                                 "status": "Enviado",
